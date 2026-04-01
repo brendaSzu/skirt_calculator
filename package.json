@@ -1,0 +1,20 @@
+{
+  "name": "skirt-calculator",
+  "version": "1.0.0",
+  "description": "Calculate skirt pattern piece measurements based on body measurements",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "skirt",
+    "pattern",
+    "calculator",
+    "sewing"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
